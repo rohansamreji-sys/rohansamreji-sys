@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="assets/midnight-banner.gif" alt="Animated midnight banner" width="100%">
+<img src="assets/midnight-banner.gif" width="100%" alt="Midnight animated banner">
 
-### M.Sc. Artificial Intelligence & Machine Learning
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B9DFF&center=true&vCenter=true&width=700&height=45&lines=M.Sc.+AI+%26+ML+student%0APython+developer%0AExploring+Machine+Learning%0ABuilding+with+data+%26+code%0AFull-Stack+Development&repeat=true" alt="Animated typing introduction">
 
-**AI/ML · Python · Data Science · Full-Stack Development**
-
-*Learning by building. Exploring ideas through code, data and projects.*
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-rohansamreji--sys-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohansamreji-sys)
 [![Python](https://img.shields.io/badge/Python-learning-1e293b?style=for-the-badge&logo=python&logoColor=60a5fa)](https://www.python.org/)
@@ -19,44 +17,62 @@
 
 ## `whoami`
 
-I'm Rohan, an M.Sc. AI & ML student interested in turning concepts into practical projects. I'm currently strengthening my foundations across programming, data analysis, machine learning, databases and web development.
+I'm Rohan, an M.Sc. Artificial Intelligence & Machine Learning student interested in turning concepts into practical projects. I'm strengthening my foundations across programming, data analysis, machine learning, databases and web development.
 
 ## `currently_exploring`
 
 - Artificial Intelligence and Machine Learning
 - Python programming and data analysis
 - ML workflows, model building and evaluation
-- SQL, database design and database technologies
+- SQL and database technologies
 - Full-stack web development
-- Practical uses of AI tools and cloud technologies
+- Practical applications of AI tools and cloud technologies
 
-## `toolkit`
+## `tech_stack`
 
-<p>
-  <img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=60a5fa">
-  <img src="https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=mysql&logoColor=60a5fa">
-  <img src="https://img.shields.io/badge/HTML5-1e293b?style=flat-square&logo=html5&logoColor=f97316">
-  <img src="https://img.shields.io/badge/CSS3-1e293b?style=flat-square&logo=css3&logoColor=38bdf8">
-  <img src="https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=facc15">
-  <img src="https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=f97316">
-  <img src="https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&theme=dark" alt="Technology icons">
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-exploring-111827?style=flat-square&logo=pytorch&logoColor=8b5cf6">
+  <img src="https://img.shields.io/badge/Data%20Science-learning-111827?style=flat-square&logo=pandas&logoColor=60a5fa">
+  <img src="https://img.shields.io/badge/Full--Stack-building-111827?style=flat-square&logo=html5&logoColor=38bdf8">
 </p>
+
+## `github_stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohansamreji-sys&show_icons=true&hide_border=true&bg_color=0B1020&title_color=8B9DFF&text_color=C9D4F2&icon_color=60A5FA&ring_color=8B5CF6" alt="GitHub statistics">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansamreji-sys&layout=compact&hide_border=true&bg_color=0B1020&title_color=8B9DFF&text_color=C9D4F2" alt="Most used languages">
+
+<br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=rohansamreji-sys&hide_border=true&background=0B1020&ring=8B9DFF&fire=60A5FA&currStreakLabel=C9D4F2&sideLabels=C9D4F2&dates=8492B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak">
+
+</div>
 
 ## `featured_work`
 
 I'm using GitHub to document my learning and build projects across AI/ML, data, databases and full-stack development.
 
-> Replace this section with 2–4 strongest repositories as they become portfolio-ready. Pin those repositories on your GitHub profile and give each a clear README, screenshots and setup instructions.
+**Explore my repositories:** [github.com/rohansamreji-sys](https://github.com/rohansamreji-sys?tab=repositories)
+
+> Pin 4–6 of your strongest repositories on your profile. For each one, add a clear README, screenshots, features and setup instructions.
 
 ## `connect`
 
 - GitHub: [@rohansamreji-sys](https://github.com/rohansamreji-sys)
 - Location: Bengaluru, India
 
----
-
 <div align="center">
 
-<sub> midnight mode: on · always learning, always building </sub>
+<img src="assets/midnight-divider.svg" width="100%" alt="Midnight gradient divider">
+
+<sub>midnight mode: on · always learning, always building</sub>
 
 </div>
