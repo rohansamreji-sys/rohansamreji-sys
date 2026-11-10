@@ -2,7 +2,7 @@
 
 <img src="assets/midnight-banner.gif" width="100%" alt="Midnight animated banner">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B9DFF&center=true&vCenter=true&width=700&height=45&lines=M.Sc.+AI+%26+ML+student%0APython+developer%0AExploring+Machine+Learning%0ABuilding+with+data+%26+code%0AFull-Stack+Development&repeat=true" alt="Animated typing introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B9DFF&center=true&vCenter=true&width=700&height=45&lines=M.Sc.+AI+%26+ML+student%0APython+Developer%0AExploring+Machine+Learning%0ABuilding+with+data+%26+code%0AFull-Stack+Development&repeat=true" alt="Animated typing introduction">
 
 <br>
 
